@@ -1,0 +1,7 @@
+/vendor/
+/storage/token.json
+/storage/*.json
+/.idea/
+/.vscode/
+/*.log
+/.DS_Store
