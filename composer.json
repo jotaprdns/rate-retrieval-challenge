@@ -1,0 +1,11 @@
+{
+    "name": "rate/retrieval-challenge",
+    "description": "Rate Retrieval Challenge - PHP pure",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
